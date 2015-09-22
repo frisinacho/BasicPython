@@ -24,3 +24,6 @@ print(5 < 2)  # False
 # Larger operations
 print(15 / 4 * 2)  # (15/4) = 3 | 3 * 2 = 6
 print(16 / 4 * 2)  # (16/4) = 4 | 4 * 2 = 8
+
+# How to solve it?
+print(16 / (4 * 2))
