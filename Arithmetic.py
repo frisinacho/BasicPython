@@ -14,3 +14,6 @@ print(5 / 2)
 
 # Module
 print(5 % 2)
+
+# Greater than
+print(5 > 2)  # True
