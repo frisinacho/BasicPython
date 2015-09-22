@@ -27,3 +27,6 @@ print(16 / 4 * 2)  # (16/4) = 4 | 4 * 2 = 8
 
 # How to solve it?
 print(16 / (4 * 2))
+
+# Concatenating Strings and Operations
+print "34 * 2 = ", 34 * 2
