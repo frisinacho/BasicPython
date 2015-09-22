@@ -17,3 +17,6 @@ print(5 % 2)
 
 # Greater than
 print(5 > 2)  # True
+
+# Less than
+print(5 < 2)  # False
