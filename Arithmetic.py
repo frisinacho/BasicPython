@@ -11,3 +11,6 @@ print(5 * 2)
 
 # Division -> Natural numbers
 print(5 / 2)
+
+# Module
+print(5 % 2)
