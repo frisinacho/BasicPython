@@ -10,3 +10,8 @@ def hello():
 print "Init:"
 hello()
 print "End."
+
+# Function with parameters
+def helloYou(name):
+    print "Hello", name
+helloYou("Nacho")
