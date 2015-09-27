@@ -1,6 +1,6 @@
 __author__ = 'Nacho'
 
-if 5 > 3:
+if False:
     print ("The condition is TRUE")
 else:
     print ("The condition is FALSE")
