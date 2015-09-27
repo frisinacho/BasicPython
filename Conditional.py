@@ -1,5 +1,7 @@
 __author__ = 'Nacho'
 
+# Different logic comparators: >, >=, <, <=, ==, !=
+
 if False:
     print ("The condition is TRUE")
 else:
