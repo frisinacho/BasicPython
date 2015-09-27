@@ -2,7 +2,10 @@ __author__ = 'Nacho'
 
 # Different logic comparators: >, >=, <, <=, ==, !=
 
-if False:
+a = raw_input()
+b = "text"
+
+if a == b:
     print ("The condition is TRUE")
 else:
     print ("The condition is FALSE")
