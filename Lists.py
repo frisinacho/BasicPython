@@ -24,3 +24,6 @@ print var2[4]
 print var2[-1]
 
 print "------"
+
+# You can combine both
+print var1[0][-1]  # First element, last letter
