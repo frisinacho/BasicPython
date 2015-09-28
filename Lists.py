@@ -18,3 +18,7 @@ var2 = var1[0]
 # First letter
 print var2[0]
 print var2[-5]
+
+# Last letter
+print var2[4]
+print var2[-1]
