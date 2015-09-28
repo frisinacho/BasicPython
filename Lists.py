@@ -22,3 +22,5 @@ print var2[-5]
 # Last letter
 print var2[4]
 print var2[-1]
+
+print "------"
