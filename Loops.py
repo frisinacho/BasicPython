@@ -20,3 +20,7 @@ name = "Jorge"
 for count in range(len(name)):
     print count
     print name[count]
+
+print ""
+print "-----------"
+print ""
