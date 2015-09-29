@@ -24,3 +24,9 @@ for count in range(len(name)):
 print ""
 print "-----------"
 print ""
+
+# While loop
+count = 0
+while count < 20:
+    print "The counter is %d" % count
+    count += 1
