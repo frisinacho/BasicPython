@@ -30,3 +30,11 @@ count = 0
 while count < 20:
     print "The counter is %d" % count
     count += 1
+
+# Trying break
+count = 0
+while True:
+    print "The counter is %d" % count
+    count += 1
+    if count > 5:
+        break
