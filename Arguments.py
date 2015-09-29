@@ -2,6 +2,6 @@ __author__ = 'Nacho'
 
 from sys import argv
 
-script, name = argv
+script, name, lastName = argv
 
-print "Hello %s" % name  # cmd> python Arguments.py Name
+print "Hello %s %s" % (name, lastName)  # cmd> python Arguments.py Name
