@@ -6,4 +6,6 @@ script, filename = argv
 
 print "Creating %r file" % filename
 
-open(filename, 'w')
+file = open(filename, 'w')
+file.write("This file is a test")
+file.close()
