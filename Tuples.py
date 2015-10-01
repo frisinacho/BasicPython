@@ -8,3 +8,5 @@ print my_tuple[0]  # 1
 
 my_list[0] = 10  # 10
 my_tuple[0] = 10  # ERROR
+
+my_list.sort()
