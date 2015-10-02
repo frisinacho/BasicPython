@@ -2,4 +2,4 @@ __author__ = 'Nacho'
 
 import subprocess
 
-subprocess.call('ls')
+subprocess.call(['ls', '-l'])
