@@ -5,4 +5,5 @@ def calc(a=3, b=5):
     result = a * b
     print result
 
-calc()
+my_tuple = (10, 7)
+calc(*my_tuple)
