@@ -5,4 +5,4 @@ def calc(a=3, b=5):
     result = a * b
     print result
 
-calc()
+calc(2)
