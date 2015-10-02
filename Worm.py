@@ -5,3 +5,4 @@ import subprocess
 
 script = argv
 name = str(script[0])
+print name
